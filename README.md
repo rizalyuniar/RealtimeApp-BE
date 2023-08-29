@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Backend Realtime App</h3>
   <p align="center">
-    <a href="https://github.com/rrizalyuniar/RealtimeApp-BE"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rizalyuniar/RealtimeApp-BE"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://belum-production.up.railway.app/">View Demo</a>
     ·
@@ -63,7 +63,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Back End Repo
 ```
-https://github.com/rrizalyuniar/RealtimeApp-BE.git
+https://github.com/rizalyuniar/RealtimeApp-BE.git
 ```
 - Go To Folder Repo
 ```
@@ -117,9 +117,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend RealtimeApp`](https://github.com/rrizalyuniar/RealtimeApp-BE)
+:rocket: [`Backend RealtimeApp`](https://github.com/rizalyuniar/RealtimeApp-BE)
 
-:rocket: [`Frontend RealtimeApp`](https://github.com/rrizalyuniar/RealtimeApp-FE)
+:rocket: [`Frontend RealtimeApp`](https://github.com/rizalyuniar/RealtimeApp-FE)
 
 :rocket: [`Demo RealtimeApp`](https://realtime-app-fe.vercel.app/)
 
@@ -128,4 +128,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : rizalyuniar123@gmail.com
 
-Project Link: [https://github.com/rrizalyuniar/RealtimeApp-BE/](https://github.com/rrizalyuniar/RealtimeApp-BE)
+Project Link: [https://github.com/rizalyuniar/RealtimeApp-BE/](https://github.com/rizalyuniar/RealtimeApp-BE)
